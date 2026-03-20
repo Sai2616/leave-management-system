@@ -21,7 +21,7 @@ This system is designed to simplify the leave management process in organization
 
 ### 🔹 Frontend
 
-* Vue.js (Vite)
+* Vue.js
 * Tailwind CSS
 * Vue Router
 
@@ -91,7 +91,7 @@ leave-management-system/
 ### 🔹 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/leave-management-system.git
+git clone https://github.com/Sai2616/leave-management-system.git
 cd leave-management-system
 ```
 
@@ -139,22 +139,12 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
 
-* Login Page
-* Dashboard
-* Apply Leave Page
-* Employer Panel
-
-*(You can add screenshots here)*
-
----
 
 ## 🚀 Future Enhancements
 
 * Email notifications
 * Leave balance tracking
-* Calendar integration
 * Mobile responsiveness improvements
 
 ---
@@ -173,11 +163,9 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+Sai Prakash Kashetti
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (Add your profile)
+* GitHub: https://github.com/Sai2616
+* LinkedIn: www.linkedin.com/in/sai2609
 
----
 
-⭐ If you found this project helpful, please give it a star!
